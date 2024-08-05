@@ -18,3 +18,6 @@ predict.py 运用训练好的模型进行数据的预测
 requirements.txt 是本项目所需要的第三方库文件，其中最主要是tensorflow 需要对应 不然会出问题
 ```
 
+模型链接（百度网盘）：通过百度网盘分享的文件：models.zip
+链接：https://pan.baidu.com/s/1VBm7w9pd0l7LiQgL_X_9qA?pwd=nobl 
+提取码：nobl
