@@ -1,0 +1,6 @@
+tensorflow-cpu == 2.3.0
+pillow
+opencv-python
+matplotlib
+pandas
+matplotlib
